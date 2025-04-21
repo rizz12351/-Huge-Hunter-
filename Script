@@ -28,7 +28,7 @@ local function createLoadingGUI()
 	loadingLabel.Position = UDim2.new(0.5, 0, 0.5, -50)
 	loadingLabel.AnchorPoint = Vector2.new(0.5, 0.5)
 	loadingLabel.BackgroundTransparency = 1
-	loadingLabel.Text = "Loading Huge Hunter"
+	loadingLabel.Text = "Loading Script"
 	loadingLabel.Font = Enum.Font.GothamBlack
 	loadingLabel.TextSize = 48
 	loadingLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
